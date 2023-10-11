@@ -1,0 +1,39 @@
+body{
+    background-color: #fac8d0;
+    }
+    
+    
+    header{
+    background-color: rgb(255, 135, 205);
+    }
+    h1{
+    margin: 0;
+    padding: 2%;
+    text-align: center;
+    }
+    .pedido{
+    background-color: rgb(216, 154, 191);
+    height: 300px;
+    border-radius: 15px;
+
+    text-align: center;
+    width: 45%;
+    }
+    
+    
+    label{
+    line-height: 1,4;
+    }
+    
+    input{
+        margin-bottom: 20px;
+    }
+    
+    button{
+        margin-top: 20px;
+    }
+
+    .principal{
+        display: grid;
+        place-items: center;
+    }
